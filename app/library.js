@@ -17,6 +17,12 @@ class Library {
 });
      this.books = withdrawBook
   }
+
+  checkout() {
+
+    const checkoutBook = this.book
+  }
+
 }
 
 module.exports = Library; this.books 
